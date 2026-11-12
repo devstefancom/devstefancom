@@ -17,6 +17,7 @@
 | <img src="icons/filmer.png" width="40"> | **[Filmer](https://devstefan.com/filmer/)** | Record your screen, webcam or audio. |
 | <img src="icons/mailbackup.png" width="40"> | **[Mail Backup](https://devstefan.com/mailbackup/)** | Save your whole mailbox on your Mac, folders included. |
 | <img src="icons/ftpupload.png" width="40"> | **[FTP Upload](https://devstefan.com/ftpupload/)** | Put your files on your server – FTP, FTPS and SFTP. |
+| <img src="icons/multitool.png" width="40"> | **[Multitool](https://devstefan.com/multitool/)** | A pocket knife for the menu bar: clipboard history, snippets, colour picker and more. |
 | <img src="icons/drumcam.png" width="40"> | **[DrumCam](https://devstefan.com/drumcam/)** | Multicam for drummers: iPhones as cameras, the Mac as control room. |
 
 <sub>All Mac apps are notarized by Apple. No accounts, no tracking, no data collection.</sub>
